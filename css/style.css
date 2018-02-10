@@ -525,7 +525,7 @@ h1 {
     margin: 0 auto;
     position: absolute;
     z-index: 99;
-    background: #7c5e3e;
+    background: #9e3f4f;
 }
 
 .factory-banner .text-holder:before {
@@ -538,7 +538,7 @@ h1 {
     margin: 0 auto;
     position: absolute;
     z-index: 99;
-    background: #312821;
+    background: #312121;
 }
 
 .factory-banner.win-height {
@@ -581,7 +581,7 @@ h1 {
     content: "";
     z-index: -1;
     position: absolute;
-    background: url(../images/icon-setting.png) no-repeat;
+    background: url(#) no-repeat;
 }
 
 .factory-banner .text-holder span {
@@ -1770,7 +1770,7 @@ h1 {
     width: 340px;
     color: #999;
     font-size: 13px;
-    margin: 0 80px 0 0;
+    margin: 0 20px 0 0;
 }
 
 .footer-column .title {
@@ -1827,8 +1827,8 @@ h1 {
 
 .footer-column .column-2 {
     float: left;
-    width: 150px;
-    margin: 0 50px 0 0;
+    width: 270px;
+    margin: 0 20px 0 0;
 }
 
 .footer-column .link-list {
@@ -1845,8 +1845,8 @@ h1 {
     color: #999;
     font-size: 13px;
     display: inline-block;
-    text-decoration: underline;
-    font-family: 'open_sanslight';
+    text-decoration: none;
+    font-family: 'open_sanssemibold';
 }
 
 .footer-column .link-list li a:hover {
@@ -1856,7 +1856,7 @@ h1 {
 .footer-column .column-3 {
     width: 270px;
     float: left;
-    margin: 0 70px 0 0;
+    margin: 0 20px 0 0;
 }
 
 .footer-column .column-3 .tweet-box {
@@ -1886,7 +1886,7 @@ h1 {
     padding: 24px 0;
     overflow: hidden;
     background: #141414;
-    text-align: center;
+    text-align: left;
 }
 
 .bottom-footer span {
